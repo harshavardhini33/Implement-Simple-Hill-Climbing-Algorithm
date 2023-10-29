@@ -1,6 +1,6 @@
 # EXP04-Implement Simple Hill Climbing Algorithm
 ```
-NAME : Harshavardhimi M
+NAME : Harshavardhini M
 REGNO : 212221240015
 ```
 ## AIM:
